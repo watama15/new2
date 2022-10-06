@@ -29,4 +29,6 @@ handler.help = ['tebakkata']
 handler.tags = ['game']
 handler.command = /^tebakkata/i
 
+handler.group = true
+
 export default handler
