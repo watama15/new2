@@ -31,6 +31,8 @@ handler.help = ['tebakgambar']
 handler.tags = ['game']
 handler.command = /^tebakgambar/i
 
+handler.group = true
+
 export default handler
 
 const buttons = [
