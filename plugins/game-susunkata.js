@@ -35,6 +35,8 @@ handler.help = ['susunkata']
 handler.tags = ['game']
 handler.command = /^susunkata/i
 
+handler.group = true
+
 export default handler
 
 const buttons = [
