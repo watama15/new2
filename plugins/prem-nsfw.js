@@ -565,4 +565,6 @@ handler.help = ['nsfw <type>', 'hentai <type>']
 handler.tags = ['nsfw', 'premium']
 handler.command = /^(nsfw|hentai)/i
 
+handler.premium = true
+
 export default handler
