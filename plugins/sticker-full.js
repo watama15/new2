@@ -33,6 +33,8 @@ handler.help = ['sfull']
 handler.tags = ['sticker']
 handler.command = /^sfull$/i
 
+handler.limit = true
+
 export default handler
 
 const isUrl = (text) => text.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)(jpe?g|gif|png)/, 'gi'))
