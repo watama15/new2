@@ -36,7 +36,7 @@ handler.help = ['menfess', 'menfes'].map(v => v + ' <nomor|nama pengirim|pesan>'
 handler.command = /^(menfess|menfes)$/i
 handler.private = true
 
-handler.limit = true
+handler.premium = true
 
 export default handler
 
