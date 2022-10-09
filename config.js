@@ -371,7 +371,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\na\ny\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\n*a*\n*y*\n*n*\n*a*\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nᴄʀᴇᴀᴛᴇᴅ ʙʏ KoncitOfc`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴀɴyᴀ ʙᴏᴛᴢ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ KoncitOfc'
 
