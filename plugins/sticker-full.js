@@ -33,7 +33,7 @@ handler.help = ['sfull']
 handler.tags = ['sticker']
 handler.command = /^sfull$/i
 
-handler.limit = true
+handler.group = true
 
 export default handler
 
