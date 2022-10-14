@@ -16,4 +16,6 @@ handler.help = ['zippyshare']
 handler.tags = ['downloader']
 handler.command = /^z(s|ippy(dl|share)?)$/i 
 
+handler.premium = true
+
 export default handler
