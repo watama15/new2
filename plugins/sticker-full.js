@@ -34,6 +34,7 @@ handler.tags = ['sticker']
 handler.command = /^sfull$/i
 
 handler.group = true
+handler.limit = true
 
 export default handler
 
