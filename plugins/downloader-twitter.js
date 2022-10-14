@@ -13,6 +13,8 @@ handler.help = ['twitter']
 handler.tags = ['downloader']
 handler.command = /^((twt|twitter)(dl)?)$/i
 
+handler.premium = true
+
 export default handler
 
 async function twitterDl(url) {
