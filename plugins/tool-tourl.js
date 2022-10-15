@@ -33,6 +33,9 @@ conn.reply(m.chat, caption, m, { contextInfo: {
 handler.help = ['tourl']
 handler.tags = ['tools']
 handler.command = /^(tourl|upload)$/i
+
+handler.premium = true
+
 export default handler
 
 async function shortUrl(url) {
