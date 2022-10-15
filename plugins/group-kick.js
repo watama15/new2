@@ -18,6 +18,7 @@ handler.command = /^(kick)$/i
 handler.owner = false
 handler.group = true
 handler.botAdmin = true
+handler.admin = true
 
 export default handler
 
